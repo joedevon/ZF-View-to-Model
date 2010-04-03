@@ -1,0 +1,3 @@
+http://twitter.com/ericclemmons told me about a pattern he uses with Zend Framework, which is to pull data from the models directly from the view via View Helpers. Following that conversation, I tried it and it's been a great success.
+
+http://twitter.com/juokaz/status/11525036474 asked me for a code sample so here it is.
