@@ -1,0 +1,8 @@
+<div>
+List of players on team:
+<ul>
+<?php foreach ($this->getPlayersFromModel() as $player): ?>
+	<li><?php echo $player['name'] ?></li>
+<?php endoforeach; ?>
+</ul>
+</div>
